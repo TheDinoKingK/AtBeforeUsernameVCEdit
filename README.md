@@ -3,6 +3,7 @@ I'd ❤️ you, if you shared this theme with friends!
 
 ## About
 Shows `@` sign before usernames on Discord after the update regarding removal of discriminators. Discord apparently decided that not including those is a "much better" choice...
+All I did was remove the semi-translucency of the sign lol
 
 
 ## Info
